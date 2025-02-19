@@ -1,0 +1,36 @@
+[
+    {
+      "nome": "Giada",
+      "cognome": "Graziani",
+      "eta": 18,
+      "indirizzo": {
+        "indirizzo": "via pascoli",
+        "civico": 6,
+        "cap": 500147
+      },
+      "voto": [
+        {
+          "materia": "scienze",
+          "voto": 8,
+          "giudizio": "bravo complimenti"
+        }
+      ]
+    },
+    {
+      "nome": "Gaia",
+      "cognome": "Bottai",
+      "eta": 20,
+      "indirizzo": {
+        "indirizzo": "via pascoli",
+        "civico": 6,
+        "cap": 500147
+      },
+      "voto": [
+        {
+          "materia": "scienze",
+          "voto": 8,
+          "giudizio": "bravo complimenti"
+        }
+      ]
+    }
+  ]
